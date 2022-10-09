@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/richardoliveira/Documents/Programação/C#/AulasC-/Projeto0/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "/Users/richardoliveira/Documents/Programação/C#/AulasCS/Projeto1/HelloWorld/HelloWorld/HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/richardoliveira/Documents/Programação/C#/AulasC-/Projeto0/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectPath": "/Users/richardoliveira/Documents/Programação/C#/AulasCS/Projeto1/HelloWorld/HelloWorld/HelloWorld.csproj",
       "packagesPath": "/Users/richardoliveira/.nuget/packages/",
-      "outputPath": "/Users/richardoliveira/Documents/Programação/C#/AulasC-/Projeto0/HelloWorld/HelloWorld/obj/",
+      "outputPath": "/Users/richardoliveira/Documents/Programação/C#/AulasCS/Projeto1/HelloWorld/HelloWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/richardoliveira/.nuget/NuGet/NuGet.Config"
